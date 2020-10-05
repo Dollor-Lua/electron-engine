@@ -1,0 +1,15 @@
+{
+  "name": "electronengine",
+  "version": "1.0.0",
+  "description": "A game engine running with electron!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"The test command was ran.\""
+  },
+  "author": "DollorLua",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "multiprocessing": "^1.2.0"
+  }
+}
